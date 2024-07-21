@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dieg0fficial</h1>
 <h3 align="center">I'm not afraid to challenge myself with new technologies or complex concepts</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dieg0fficial&label=Profile%20views&color=0735c0&style=plastic" alt="dieg0fficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dieg0fficial&label=Profile%20views&color=0735c0&style=flat" alt="dieg0fficial" /> </p>
+
+<img src="https://i.imgur.com/M6t8eYH.png">
+
 
 - 🔭 I’m currently working on **Desktop & Android Softwares**
 
